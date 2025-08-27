@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daffarafly
-- 👀 I’m interested in Web Developing also Back-End Developer
+- 👀 I’m interested in Web Develop, Back-End Developer, Blockchain Developer, Trader, Investor
 - 🌱 I’m currently learning Java, C++, Python, CSS
-- 💞️ I’m looking to collaborate on Dicoding
+- 💞️ I’m looking to collaborate on Dicoding and Akademi Crypto
 - 📫 How to reach me : https://www.instagram.com/daffarafly._/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: im 20 years old
